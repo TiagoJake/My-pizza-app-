@@ -1,0 +1,49 @@
+body{
+    background-image:url(cartoon-KITCHE.jpg); 
+    background-size: 100vw 100vh;
+
+
+}
+
+#pizzaslice{
+
+  width:  650px;
+  height: 650px;
+ 
+}
+
+
+
+#pizzasauce{
+  
+   
+    width:150px;
+    height:150px;
+   
+
+}
+
+#addcheese{
+ 
+  width: 150px;
+  height: 150px;
+}
+
+#addpine{
+
+  width: 150px;
+  height: 150px;
+}
+
+
+#addpepporoni1{
+
+  width: 150px;
+  height: 150px;
+}
+
+#addtomato1{
+
+  width: 150px;
+  height: 150px;
+}
